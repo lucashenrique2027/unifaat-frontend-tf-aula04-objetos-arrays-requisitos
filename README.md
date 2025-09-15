@@ -1,4 +1,4 @@
-# Unifaat :: Frontend :: TF :: Aula 04  - Objetos, Arrays e Requisições <a name="unifaat-frontend-tf-aula04-objetos-arrays-requisicoes"></a>
+Frontend - Objetos, Arrays e Requisições <a name="unifaat-frontend-tf-aula04-objetos-arrays-requisicoes"></a>
 
 ## 📑 Sumário
 
